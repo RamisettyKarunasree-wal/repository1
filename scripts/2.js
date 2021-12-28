@@ -1,0 +1,1 @@
+alert("this is 2.js file in repository1");
